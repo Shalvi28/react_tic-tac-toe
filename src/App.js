@@ -7,5 +7,4 @@ function App() {
    <Game />
   );
 }
-
 export default App;
